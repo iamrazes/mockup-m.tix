@@ -12,5 +12,4 @@ https://tinyurl.com/mockup-mtix
 ![m tix app (1)](https://github.com/iamrazes/mockup-m.tix/assets/71701718/8aeee3e6-e757-4fb9-9ddc-f1e5ccdf94b1)
 
 # New Design
-![m tix New Design (1)](https://github.com/iamrazes/mockup-m.tix/assets/71701718/d9b3a74d-3773-48fa-b84d-072a04ef0447)
-
+![m tix New Design (1)](https://github.com/iamrazes/mockup-m.tix/assets/71701718/41a8a7dc-519c-46c9-bd41-a2b0bfa17ebd)
