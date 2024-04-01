@@ -6,10 +6,11 @@ Dikembangkan resmi oleh PT.Nusantara Sejahtera Ray, m.tix merupakan aplikasi yan
 Aplikasi ini masih memiliki tampilan yang sederhana dan terkesan ketinggalan zaman, selain it tampilan aplikasi dan website-nya yang tidak jauh berbeda. Oleh karena itu, desain ulang aplikasi dengan menerapkan tampilan dan gaya yang modern namun tidak jauh lepas dari estetika awal aplikasi dapat membuat aplikasi ini ikut bersaing dengan aplikasi yang serupa.<br>
 
 Link Mockup:
-https://tinyurl.com/mockup-mtix
+https://www.figma.com/file/gUZwBd2VXzMHRJs84LWcS5/mockup---m.tix?type=design&mode=design&t=bBfbL2nRLXQXCqYi-1
+<br>
 
 # Original Design
 ![m tix app (1)](https://github.com/iamrazes/mockup-m.tix/assets/71701718/8aeee3e6-e757-4fb9-9ddc-f1e5ccdf94b1)
 
-# New Design
+# Result
 ![m tix New Design (1)](https://github.com/iamrazes/mockup-m.tix/assets/71701718/41a8a7dc-519c-46c9-bd41-a2b0bfa17ebd)
